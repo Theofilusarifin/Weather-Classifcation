@@ -1,5 +1,5 @@
 ## About This Project
-In this project, we implement Machine Learning algorithms that is Decision Tree (DT), Random Forest (RF), Naïve Bayes (NB), K-Nearest Neighbor (KNN), Support Vector Machine (SVM) and Deep Neural Network algorithm in the form of Convolutional Neural Network (CNN) to classify weather from images using the Multi-class Weather Dataset (MWD). The aim of this study is to compare performance between those six algorithms. We use K-Fold Cross Validation with cv = 5 to validate our model. Before predicting the images, we preprocess the images using smoothing and sharpening. 
+In this project, I implement Machine Learning algorithms that is Decision Tree (DT), Random Forest (RF), Naïve Bayes (NB), K-Nearest Neighbor (KNN), Support Vector Machine (SVM) and Deep Neural Network algorithm in the form of Convolutional Neural Network (CNN) to classify weather from images using the Multi-class Weather Dataset (MWD). The aim of this study is to compare performance between those six algorithms. We use K-Fold Cross Validation with cv = 5 to validate our model. Before predicting the images, we preprocess the images using smoothing and sharpening. 
 
 ## Documentation
 <a href='https://postimg.cc/zVhfnJ5g' target='_blank'><img src='https://i.postimg.cc/9F8qHMnJ/ML-1.png' border='0' alt='ML-1'/></a>
